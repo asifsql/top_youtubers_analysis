@@ -1,0 +1,6 @@
+title: Asif
+logo: C:\Users\LV\Desktop\docs\profile
+show_downloads: True
+remote_theme: pages-themes-minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
